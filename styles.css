@@ -214,11 +214,10 @@ h1, h2, h3, h4 {
 
 .storyboard-item img, .mockup-item img {
     width: 100%;
-    height: 180px; /* Placeholder size */
+    height: 200px;
     object-fit: cover;
-    border-radius: 4px;
-    background-color: #D5D8DC; /* Color mientras no hay imagen */
-    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
 /* Flujo Tech (Software) */
